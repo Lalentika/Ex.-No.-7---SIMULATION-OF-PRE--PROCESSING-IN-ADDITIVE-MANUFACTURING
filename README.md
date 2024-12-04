@@ -39,14 +39,19 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Image 2024-12-04 at 11 10 19 AM](https://github.com/user-attachments/assets/a3aae112-e0f3-4ae2-8af0-a4e4841f7b4e)
+![Image 2024-12-04 at 11 11 15 AM](https://github.com/user-attachments/assets/119e78d7-4e4c-4999-aac4-e657709fbf71)
+![Image 2024-12-04 at 11 11 26 AM](https://github.com/user-attachments/assets/43f4dbc8-ec95-4f58-b579-bb5c9482a954)
+
+
+
 
 ## Output:
+![Screenshot 2024-12-04 103253](https://github.com/user-attachments/assets/d7426a5b-4511-4028-822a-7a9c268c894e)
 
-### Name:
-### Register Number:
+
+### Name:Lalentika Twisha M
+### Register Number:24003575
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
