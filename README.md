@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Image 2024-12-04 at 11 10 19 AM](https://github.com/user-attachments/assets/fdcc45ed-26b6-4bb9-8098-56c11e8233b2)
+![Image 2024-12-04 at 11 11 15 AM](https://github.com/user-attachments/assets/a521d680-9445-46c6-8888-c1ec92d74ef9)
+![Image 2024-12-04 at 11 11 26 AM](https://github.com/user-attachments/assets/a625dfad-9e4b-4ac3-ad25-8e01d5803fe8)
 
-### Name:
-### Register Number:
+
+### Name:Lalentika Twisha M
+### Register Number:24003575
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
